@@ -1,8 +1,8 @@
 Para iniciar o projeto:
 
-git clone: link
+git clone: https://github.com/danieleesl/docker.git
 
-cd: nome do projeto
+cd: docker
 
 docker compose up -d
 
